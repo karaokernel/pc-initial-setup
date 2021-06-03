@@ -38,6 +38,8 @@ sudo apt install albert
 
 #looks:
 #https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/
+#https://extensions.gnome.org/extension/3718/hide-dash-forked/
+#https://www.gnome-look.org/p/1403328/
 
 #install bluetooth manager
 apt-get -y install blueman
