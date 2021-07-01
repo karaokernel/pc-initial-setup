@@ -13,3 +13,6 @@ https://extensions.gnome.org/extension/1482/remove-audio-device-selection-dialog
 https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/  
 https://extensions.gnome.org/extension/3718/hide-dash-forked/  
 https://www.gnome-look.org/p/1403328/  
+
+# pop icon theme:
+https://github.com/pop-os/icon-theme
